@@ -18,7 +18,7 @@ public class StudentStringTest {
 
     @After
     public void tearDown() {
-        studentstring = null;
+        studentstring = Integer;
     }
 
     /*
