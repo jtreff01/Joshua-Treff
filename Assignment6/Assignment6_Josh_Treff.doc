@@ -1,1 +1,25 @@
+Part 1 – Test Cases:
 
+1. find “Josh Treff” testfile
+2. find execute testfile
+3. find version testfile
+4. find “  “ testfile
+5. find Josh testfile
+6. find Treff testfile
+7. find return testfile
+8. find if testfile
+9. find int testfile
+10. find “battery optimization software” testfile
+
+
+Part 2:
+
+Cond1	Cond2	Output
+False	False	1.33
+False	True	-4.00
+True	False	0.67
+True	True	-2.00
+
+Statement coverage (sometimes) reveals the fault in this method.
+Branch coverage (sometimes) reveals the fault in this method.
+Path coverage (always) reveals the fault in this method.
